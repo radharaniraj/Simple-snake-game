@@ -1,4 +1,4 @@
-//snakes games
+//snakes games by radha
 function init()
 {
     
